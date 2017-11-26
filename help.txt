@@ -1,0 +1,4 @@
+I am using jupyter notebook for the proection implementation.
+Need following packages to install before you run the jupyter notebook.
+conda install plotly 
+conda install -c https://conda.anaconda.org/amueller wordcloud
